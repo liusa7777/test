@@ -1,4 +1,4 @@
-package webkit.implementation.mercury;
+package com.lenovo.webkit.implementation.mercury;
 
 public interface ADownloadListener {
 
@@ -6,6 +6,3 @@ public interface ADownloadListener {
 			String contentDisposition, String mimetype, long contentLength);
 
 }
-
-
-
